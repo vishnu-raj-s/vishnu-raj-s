@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/vishnu12349876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnu12349876" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishnu-raj-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-raj-s/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vishnu__raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishnu__raj/" height="30" width="40" /></a>
+<a href="https://instagram.com/vishnu__raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu__raj/" height="30" width="40" /></a>
 <a href="https://medium.com/@vshrj1457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vshrj1457" height="30" width="40" /></a>
 </p>
 
