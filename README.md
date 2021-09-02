@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **react, python, c**
+- 💬 Ask me about **Java, python and some Geography**
 
 - 📫 How to reach me **vishnuraj1457@gmail.com**
 
