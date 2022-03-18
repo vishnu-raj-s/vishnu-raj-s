@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm vishnu raj</h1>
 <h3 align="center">A passionate computer science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 💬 Ask me about **Java, python and some Geography**
 
 - 📫 How to reach me **vishnuraj1457@gmail.com**
